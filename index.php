@@ -10,5 +10,10 @@
     <h1>Hello Mang Ojan</h1>
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo, accusantium!</p>
     <p>Sekian dan terimakasih</p>
+    <ul>
+        <li>list satu</li>
+        <li>list dua</li>
+        <li>list tiga</li>
+    </ul>
 </body>
 </html>
